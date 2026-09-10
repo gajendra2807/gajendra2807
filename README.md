@@ -57,7 +57,7 @@ experience, shipping web and mobile apps end to end.
 <!-- One card per service — no shared rate limit, both Nord-themed -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gajendra2807&theme=nord_bg" alt="languages"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gajendra2807&theme=nord_dark" alt="languages"/>
   &nbsp;
   <img height="180" src="https://streak-stats.demolab.com?user=gajendra2807&theme=nord&hide_border=true" alt="streak"/>
 </p>
