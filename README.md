@@ -1,5 +1,5 @@
 <!-- Self-hosted banner — served by GitHub, always renders -->
-<img width="100%" src="./assets/banner.svg" alt="Gajendra Pratap Singh Jadoun — Full-Stack & Mobile App Developer"/>
+<img width="100%" src="./assets/banner.png" alt="Gajendra Pratap Singh Jadoun — Full-Stack & Mobile App Developer"/>
 
 <!-- Animated tagline (demolab — reliable through GitHub's image proxy) -->
 <p align="center">
