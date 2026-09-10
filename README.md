@@ -45,8 +45,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gajendra2807&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajendra2807&layout=compact&hide_border=true&langs_count=8">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gajendra2807&theme=default">
+</p>
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gajendra2807&theme=default">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gajendra2807&theme=default">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gajendra2807&hide_border=true">
