@@ -3,14 +3,14 @@
 
 <!-- Animated tagline (demolab — reliable through GitHub's image proxy) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=5E81AC&center=true&vCenter=true&width=680&lines=3%2B+years+shipping+web+%26+mobile+apps;From+first+commit+to+App+Store+%26+Play+Store;React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+Python+%C2%B7+Supabase;Open+to+new+opportunities" alt="tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=3%2B+years+shipping+web+%26+mobile+apps;From+first+commit+to+App+Store+%26+Play+Store;React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+Python+%C2%B7+Supabase;Open+to+new+opportunities" alt="tagline"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gajendra-jadoun-b38a65124/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:gajendrajadaun2807@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://gajendra-myportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-5E81AC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <img src="https://komarev.com/ghpvc/?username=gajendra2807&style=for-the-badge&color=88C0D0&label=PROFILE+VIEWS" alt="views">
+  <a href="https://gajendra-myportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <img src="https://komarev.com/ghpvc/?username=gajendra2807&style=for-the-badge&color=BB9AF7&label=PROFILE+VIEWS" alt="views">
 </p>
 
 <br/>
@@ -57,9 +57,9 @@ experience, shipping web and mobile apps end to end.
 <!-- One card per service — no shared rate limit, both Nord-themed -->
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gajendra2807&theme=nord_dark" alt="languages"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gajendra2807&theme=tokyonight" alt="languages"/>
   &nbsp;
-  <img height="180" src="https://streak-stats.demolab.com?user=gajendra2807&theme=nord&hide_border=true" alt="streak"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=gajendra2807&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 <br/>
@@ -79,5 +79,5 @@ experience, shipping web and mobile apps end to end.
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💼_Open_to-Full--Stack_%26_Mobile_roles-A3BE8C?style=for-the-badge" alt="open to work"/>
+  <img src="https://img.shields.io/badge/💼_Open_to-Full--Stack_%26_Mobile_roles-9ECE6A?style=for-the-badge" alt="open to work"/>
 </p>
